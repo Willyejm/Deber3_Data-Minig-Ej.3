@@ -1,0 +1,1 @@
+ACTIVIDAD PRÁCTICA 2: Limpiar un conjunto de datos reales, identificando valores faltantes, outliers, normalizando, estandarizando y codificando datos mediante herramientas como Python y Rapidminer.  
